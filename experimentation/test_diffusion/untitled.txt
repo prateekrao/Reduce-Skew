@@ -1,0 +1,4 @@
+Points to ponder over:
+
+
+- Random noise addition to images for image generation > 
